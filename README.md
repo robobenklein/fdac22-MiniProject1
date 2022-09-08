@@ -41,11 +41,11 @@ Workflow
 - Group 8: lsharpe8 sblank11 batkhamj jsun36 eander68 relgedaw kmaclin1 
 - Group 9: clee95 dhuang14 pattle zwilli13 bschwar7 hhaynie ahickm18 
 - Group 10: cearhear cjohn260 oameli friya shoque jsadik spate118 
-- Group 11: npatel79 rseamons sjohn248 rlinder jallbrit jmandzak ababjac 
+- Group 11: npatel79 rseamons sjohn248 ssuresh6 jallbrit jmandzak ababjac 
 - Group 12: yahmad1 broachel zlim2 jamin jblanch8 tharshba zhamm 
 - Group 13: klee50 mdeleon1 mdenise dwill148 ljakstas aesser zmalkmus 
 - Group 14: ahillhou whannon1 bbutle11 dseals3 lwrinkle aartates cwang93 
-- Group 15: amcdan23 bklein3 abrock14 awelden2 echavez2 dwhite75 kyumhan 
+- Group 15: amcdan23 jmuncy2 abrock14 awelden2 echavez2 dwhite75 kyumhan 
 
 
 Social Workflow with deadlines
